@@ -1,5 +1,7 @@
 # The Polleneers: An Open Source Saga
 
+![The Polleneers Cover](assets/pgp.png)
+
 Welcome to *The Polleneers*, a monumental science fiction saga spanning 100,000 years of human evolution, ethics, and consequence. This project is an experiment in collaborative storytelling, aiming to become one of the world's first truly open-source sci-fi novels.
 
 ## The Vision
@@ -11,6 +13,8 @@ Our vision is to create a rich, complex, and deeply human story, built not by a 
 You are invited to read, critique, and contribute to the universe of *The Polleneers*. Whether you are a writer, an editor, a world-builder, or simply a fan with a great idea, your voice is welcome.
 
 To get started, please familiarize yourself with the core of the story by reading the [main narrative outline](./outline.md). From there, you can explore the detailed era outlines and existing chapters.
+
+Join our [Discord server](https://discord.gg/Ut6vA3RJ) to discuss the project with other contributors.
 
 Contributions can include:
 - Writing or editing chapters.
