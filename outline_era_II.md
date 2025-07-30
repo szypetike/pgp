@@ -1,6 +1,8 @@
 Era II the seed
 
 [Back to Main Outline](./outline.md)
+[A Prologue: The Voyage of the Apium](./era_II_a_prologue.md)
+Plot: The automated colony ship Apium 1, carrying the genetic seeds of humanity, travels through interstellar space towards its destination, Ram 11. The ship's AI and robotic systems maintain the mission, highlighting the technological and philosophical underpinnings of Project Galactic Pollen.
 [Chapter 11: The First Polleneers of Ram 11](./era_II_chapter_11.md)
 Plot: The Apium 1 lands on the habitable world of Ram 11. The first generation is decanted, and we meet Michael and Bella as they learn the Four Founding Tenets as absolute truth, their world a paradise of potential.
 [Chapter 12: The Question in the Silver Ribbon](./era_II_chapter_12.md)
