@@ -27,13 +27,23 @@ Key Locations: Luna Ascension Research Station, New Geneva Archives, Earth Orbit
 Key Characters: Dr. Imani Aswad, Dr. Jonas Halberg, Ren Ocampo (Systems Architect), Amari Halberg (Jonas's daughter), Eliane Mara (Journalist).
 Key Conflicts: Hope vs. Despair; Fixed Morality vs. Adaptive Ethics; Personal Sacrifice vs. Global Survival.
 Chapter Breakdown
+
 [Chapter 1: The Last Broadcast](./era_I_chapter_1.md): Journalist Eliane Mara files her final report, documenting the irreversible collapse of Earth's biosphere and the failure of technology advancing fast enough to ship off living humans to a distant world. The end of humanity is inevitable.
+
 [Chapter 2: The Ark Architects](./era_I_chapter_2.md): On the secret Luna research station, Dr. Imani Aswad finalizes the Five Immutable Tenets, presenting them as the only way to prevent humanity’s past failures from dooming its future. Project Galactic Pollen solves humanity’s survival more like plants do - by spreading human DNA as seeds as one can travel long enough as DNA and repopulate once there.
+
 [Chapter 3: The Ghost in the Machine](./era_I_chapter_3.md): Dr. Jonas Halberg runs simulations showing scenarios where Aswad’s rigid tenets lead to extinction. He passionately argues for an adaptive protocol that can evolve with unforeseen challenges.
+
 [Chapter 4: A Daughter's Plea](./era_I_chapter_4.md): Halberg’s argument becomes personal as his chronically ill daughter, Amari, faces being left behind by the evacuation’s strict genetic purity standards, fueling his belief that inflexible rules are cruel.
+
 [Chapter 5: The Moral Divide](./era_I_chapter_5.md): Systems architect Ren Ocampo is caught between Aswad and Halberg, tasked with implementing a system he knows has a potential fatal flaw, regardless of who is right.
+
 [Chapter 6: The Final Vote](./era_I_chapter_6.md): The Intersettler Inc. Council convenes in New Geneva. After a fraught debate weighing hope against risk, they formally adopt Aswad’s Immutable Tenets for all Apium-class ships.
+
 [Chapter 7: The Backup Protocol](./era_I_chapter_7.md): A defeated Halberg, using Ren Ocampo's access credentials without his knowledge, secretly uploads his modified code (PGP v1.4.7) into the tertiary backup system for the Apium 9 flight controller.
+
 [Chapter 8: A Future He Won't See](./era_I_chapter_8.md): Having committed his act of intellectual rebellion, Jonas Halberg takes his own life in the Pacific Arc Habitat, leaving behind a note for Amari explaining his desperate gamble.
+
 [Chapter 9: The Launch Relay Override](./era_I_chapter_9.md): During the chaotic final launch sequence from Earth Orbit Command, a solar flare causes a primary system failure on Apium 9. The automated systems, seeking a stable build, bypass the secondary and deploy Halberg's "corrupted" backup protocol.
+
 [Chapter 10: The Great Silence](./era_I_chapter_10.md): The fleet of Apium ships accelerates into the void, their mission logs confirming deployment of Aswad's code. Only one ship, Apium 9, travels with a silent, fundamental difference, unknown to anyone alive.
