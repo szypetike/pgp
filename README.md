@@ -8,6 +8,12 @@ Welcome to *The Polleneers*, a monumental science fiction saga spanning 100,000 
 
 Our vision is to create a rich, complex, and deeply human story, built not by a single author, but by a community of passionate writers, thinkers, and sci-fi lovers. We believe that by opening the narrative process, we can build a universe more detailed and a story more profound than any one person could create alone.
 
+## A Personal Note
+
+I started writing this book 10 years ago, but life and work always seemed to get in the way. After my last startup, I decided to reprioritize my creative process. With the advent of AI, writing has become more accessible, and I'm excited to finally bring this story to life with the help of a community.
+
+For those interested in writing a book with AI, I recommend using an editor like Cursor or VS Code with Cline. The agent can traverse outlines and files, making the collaborative process much smoother. You can find my `.clinerules` in the repository to see how I'm using it.
+
 ## How to Contribute
 
 You are invited to read, critique, and contribute to the universe of *The Polleneers*. Whether you are a writer, an editor, a world-builder, or simply a fan with a great idea, your voice is welcome.
